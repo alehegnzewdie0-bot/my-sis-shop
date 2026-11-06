@@ -1,4 +1,3 @@
-…or create a new repository on the command line
 echo "# my-sis-shop" >> README.md
 git init
 git add README.md
@@ -10,3 +9,5 @@ git push -u origin main
 git remote add origin https://github.com/alehegnzewdie0-bot/my-sis-shop.git
 git branch -M main
 git push -u origin main
+
+mongodb+srv://alehegnzewdie0_db_user:<db_password>@cluster0.p3bu2vk.mongodb.net/
